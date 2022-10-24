@@ -19,7 +19,7 @@ print("Hello",nama,"umur kamu adalah",umur,"tahun")
 # Contoh Latihan 1
 
 • Menjalankan Python Console  
-• Menampilkan tulisan "Hello" dilayar"  
+• Menampilkan tulisan "Hello" dilayar  
 • Menampilkan tulisan "Ini Python"  
 
 Dengan cara :
@@ -75,4 +75,4 @@ print("Hasil penjumlahan {0} + {1}= %d".format(a,b) %(a+b))
 print("Hasil penjumlahan {0} / {1}= %d".format(a,b) %(a/b))
 ```  
 
-![](img/ss6.png)
+![](ss/6.png)
