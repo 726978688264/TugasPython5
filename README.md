@@ -1,3 +1,6 @@
+# Nama = Hendra Parsaulian
+# Nim = 312210689
+
 ## Instalasi Python
 • Bagi pengguna Linux, Python tidak perlu diinstal.
 Karena Sebagian besar distro Linux sudah
